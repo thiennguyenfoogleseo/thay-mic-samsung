@@ -45,8 +45,7 @@
         <div class="align-left container">
           <div class="row pt-5">
             <div><strong>Hcare</strong>&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-calendar"></i>
-              21/08/2024 &nbsp;&nbsp;19:00 &nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-eye"></i>
-              10 </div>
+              21/08/2024 &nbsp;&nbsp;19:00 &nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-eye"></i> 10 </div>
             <br>
             <br>
             <br>
@@ -221,6 +220,8 @@
             <p class="h2 display-fonts-style display-card-title display-black display-bold display-6 strong">Bài
               Viết Mới Nhất</p>
             <ul>
+            </ul>
+            <ul>
               <li><a href="phan-biet-mic-samsung-chinh-hang-va-hang-gia.html" title="Phân biệt mic Samsung chính hãng và hàng giả"
 
                   target="_blank">Phân biệt mic Samsung chính hãng và hàng giả</a></li>
@@ -230,6 +231,8 @@
               <li><a href="cach-ve-sinh-mic-samsung.html" title="Cách vệ sinh mic Samsung"
 
                   target="_blank">Cách vệ sinh mic samsung</a></li>
+            </ul>
+            <ul>
             </ul>
           </div>
         </div>
